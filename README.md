@@ -44,3 +44,24 @@ MVPリリース
 - デプロイ先 (Render)
 - 使用予定のライブラリ（Devise / Pundit / turbo-rails / stimulus-rails / tailwindcss-rails / Lockbox / line-bot-api）
 - 使用予定の外部API( W3C Geolocation API )
+
+### 画面遷移図
+Figma：https://www.figma.com/design/brml6QuiHs7WzAgRln2d0b/runteq%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?node-id=0-1&t=MMVNNrGWPSQTqyFn-1
+
+### READMEに記載した機能
+- [✔] ユーザー登録機能
+- [✔] ログイン機能
+- [✔] タスク作成
+- [✔] タスク詳細
+- [✔] タスク編集
+- [✔] タスク削除
+- [✔] テンプレ質問機能
+- [✔] いいね機能
+- [✔] いいね解除機能
+
+### 未ログインでも閲覧または利用できるページ
+以下の項目は適切に未ログインでも閲覧または利用できる画面遷移になっているか？
+- [✔] トップページの一覧ページ
+- [✔] お問い合わせ
+- [✔] 利用規約
+- [✔] プライバシーポリシー
