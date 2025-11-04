@@ -46,4 +46,4 @@ MVPリリース
 Figma：https://www.figma.com/design/brml6QuiHs7WzAgRln2d0b/runteq%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?node-id=0-1&t=MMVNNrGWPSQTqyFn-1
 
 ### ER図
-https://gyazo.com/5be0d1f7c0a91b3c131619c51cbae269
+https://gyazo.com/9de89dd722d8b04e3945109e5b04a262
